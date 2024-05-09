@@ -1,0 +1,10 @@
+{
+    "to": "Luisa Sacura",
+    "description": "Transferência realizada",
+    "amount": 1384,
+    "tType": "TRANSFEROUT",
+    "id": "0B5BFD44-0DF1-4005-A7CF-66C9C0438380",
+    "createdAt": "2020-11-29T03:00:00Z",
+    "bankName": "BANK",
+    "authentication": "ABC123"
+}

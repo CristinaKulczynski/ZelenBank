@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1071995498026-p8cv7k2bvrh4q4qjt52bb6hc1qd5hgf6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1071995498026-p8cv7k2bvrh4q4qjt52bb6hc1qd5hgf6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDZ--qzTLP88btQmFX6jgtgOEU_dcnoto0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1071995498026</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zelenbank</string>
+	<key>PROJECT_ID</key>
+	<string>zelen-bank</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zelen-bank.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1071995498026:ios:3add7a876d4ef0dcf09d53</string>
+</dict>
+</plist>

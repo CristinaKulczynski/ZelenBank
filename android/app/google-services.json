@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1071995498026",
+    "project_id": "zelen-bank",
+    "storage_bucket": "zelen-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071995498026:android:9c8504320b6d2acff09d53",
+        "android_client_info": {
+          "package_name": "com.example.zelenbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071995498026-vqha987ku8i34h602ukg560nf61u2h5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zelenbank",
+            "certificate_hash": "0854263bd33810354a1a9df453e65608e3a2b371"
+          }
+        },
+        {
+          "client_id": "1071995498026-04ehipi88lj0u2fjupdj612eh22di5rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1kf0J5zo7izMlUcGfvv0T4eqQgVt7r-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071995498026-04ehipi88lj0u2fjupdj612eh22di5rt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071995498026-p8cv7k2bvrh4q4qjt52bb6hc1qd5hgf6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zelenbank"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

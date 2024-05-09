@@ -1,0 +1,1 @@
+Set transferInTypes = {'TRANSFERIN', 'PIXCASHIN'};

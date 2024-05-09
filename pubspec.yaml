@@ -1,0 +1,89 @@
+name: zelenbank
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  http: ^0.13.5
+  
+  get_it: ^7.2.0
+  equatable: ^2.0.5
+  shared_preferences: ^2.0.15
+  share_files_and_screenshot_widgets: ^1.0.6
+  shimmer: ^2.0.0
+  intl: ^0.17.0
+  flutter_native_splash: ^2.2.16
+  dartz: ^0.10.1
+  test_coverage_badge: ^0.2.0
+  firebase_core: ^2.3.0
+  firebase_auth: ^4.1.5
+  firebase_messaging: ^14.1.3
+  flutter_local_notifications:  ^9.4.0
+  flutter_notifications: ^0.0.1
+  flutter_native_timezone: ^2.0.0
+  cloud_firestore: ^4.1.0
+  flutter_svg: ^1.1.6
+  local_auth: ^2.1.2
+  google_fonts: ^3.0.1
+  google_sign_in: ^5.4.2
+  google_maps_flutter: ^2.2.1
+  geolocator: ^9.0.2
+  flutter_config: ^2.0.0
+
+flutter_native_splash:
+  image: 'assets/logo.png'
+  color: '#00C1AF'
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  mocktail: ^0.3.0
+  flutter_launcher_icons: ^0.11.0
+
+
+flutter_icons:
+  android: true
+  image_path: "assets/icon_app.png"
+  ios: true
+  min_sdk_android: 21
+  remove_alpha_ios: true
+  adaptive_icon_background: "#00C1AF"
+  adaptive_icon_foreground: "assets/logo_foreground.png"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+
